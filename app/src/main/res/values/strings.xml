@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PuffyAI</string>
+    <string name="images_remaining_today">Images remaining today: %d</string>
+    <string name="select_image_button">Select Image (Gallery or Camera)</string>
+    <string name="watch_ad_button">Watch Ad for more generation</string>
+    <string name="purchase_packs_button">Purchase Packs</string>
+    <string name="generating_your_image">Generating your image...</string>
+    <string name="generate_another_image">Generate Another Image</string>
+    <string name="purchase_image_generation_packs">Purchase Image Generation Packs</string>
+    <string name="buy_5_generations">Buy 5 Generations</string>
+    <string name="buy_10_generations">Buy 10 Generations</string>
+    <string name="buy_20_generations">Buy 20 Generations</string>
+    <string name="generated_image_content_description">Generated Image</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="gallery_permission_denied">Gallery permission denied</string>
+    <string name="daily_limit_reached">Daily limit reached. Watch an ad or purchase packs.</string>
+    <string name="error_no_image_selected">Error: No image selected.</string>
+    <string name="failed_to_decode_image">Failed to decode image.</string>
+    <string name="image_generated_successfully">Image generated successfully!</string>
+    <string name="error_generating_image">Error generating image: %s</string>
+    <string name="an_error_occurred">An error occurred: %s</string>
+    <string name="failed_to_get_image_uri_from_bitmap">Failed to get image URI from bitmap</string>
+    <string name="purchase_cancelled">Purchase cancelled.</string>
+    <string name="purchase_successful_credits_added">Purchase successful! Credits added.</string>
+    <string name="failed_to_acknowledge_purchase">Failed to acknowledge purchase.</string>
+    <string name="purchase_already_acknowledged_credits_granted">Purchase already acknowledged. Credits granted.</string>
+    <string name="credits_added">Credits added!</string>
+    <string name="billing_client_not_ready">BillingClient is not ready. Cannot initiate purchase.</string>
+    <string name="product_details_not_found">Product details not found for product ID: %s</string>
+    <string name="billing_flow_launch_failed">Billing flow launch failed: %s</string>
+</resources>
